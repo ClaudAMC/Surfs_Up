@@ -22,5 +22,11 @@ The results from the December month analysis are summarized in the image below:
 
 ![December Temp Summary.PNG](https://github.com/ClaudAMC/Surfs_Up/blob/main/December%20Temp%20Summary.PNG)
 
+### Results Summary:
 
+1. From the summary statistics we can see that overall the tempature remains relatively stable between the two months with mean temparatures only varying ~3.5 degrees F. The average temperatures in June fall around 75 degrees F and in December around 71 degrees F. This is a small 4 degree difference. Additionally we know from the standard deviations that this is not a significant difference, the standard deviations are 3.26 and 3.75 degrees F respectively. This means the averages deviate less than 2 std from the mean.
+
+2. We can also see that the temperatures in December do decrease slightly. We can see that the minimum temperature during december was 56 degrees F where as the lowest temperature in June was 64 degrees F. From this we know that although the average temperatures are not all that different there are colder days in December as opposed to June.
+
+3. Finally, when we look at the quartiles for each data set.
 
