@@ -28,5 +28,5 @@ The results from the December month analysis are summarized in the image below:
 
 2. We can also see that the temperatures in December do decrease slightly. We can see that the minimum temperature during december was 56 degrees F where as the lowest temperature in June was 64 degrees F. From this we know that although the average temperatures are not all that different there are colder days in December as opposed to June.
 
-3. Finally, when we look at the quartiles for each data set.
+3. Finally, when we look at the quartiles for each data set we can see that the june temperature spread seems to be quite even as the temperature difference between the 1st, 2nd and 3rd quartile is even at 2 degrees F. This is similar to the spread of the December temperatures where the difference between the 1st and 2nd quartiles is 2 degrees F and the diffrence between the 2nd and 3rd quartiles is 3 degrees F. This means the spread of temperatures is quite similar only that the overall temperaturesare lower in December compared to June (as mentioned in point 1).
 
