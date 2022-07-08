@@ -30,3 +30,19 @@ The results from the December month analysis are summarized in the image below:
 
 3. Finally, when we look at the quartiles for each data set we can see that the june temperature spread seems to be quite even as the temperature difference between the 1st, 2nd and 3rd quartile is even at 2 degrees F. This is similar to the spread of the December temperatures where the difference between the 1st and 2nd quartiles is 2 degrees F and the diffrence between the 2nd and 3rd quartiles is 3 degrees F. This means the spread of temperatures is quite similar only that the overall temperaturesare lower in December compared to June (as mentioned in point 1).
 
+## Summary
+
+Two additional queries were generated to look at the percipitation data for June and Decemeber. These can be found once again in the notebook:
+
+[SurfsUp_Challenge.ipynb](https://github.com/ClaudAMC/Surfs_Up/blob/main/SurfsUp_Challenge.ipynb)
+
+The results from this analysis are in the images below:
+
+Month of June:
+
+![June Percipitation Summary.PNG](https://github.com/ClaudAMC/Surfs_Up/blob/main/June%20Percipitation%20Summary.PNG)
+
+Month of December:
+
+![December Percipitation Summary.PNG](https://github.com/ClaudAMC/Surfs_Up/blob/main/December%20Percipitation%20Summary.PNG)
+
