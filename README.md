@@ -46,3 +46,5 @@ Month of December:
 
 ![December Percipitation Summary.PNG](https://github.com/ClaudAMC/Surfs_Up/blob/main/December%20Percipitation%20Summary.PNG)
 
+From these additionaly queries we can see overall that during the months of June and December there are low amounts of percipitation. On average the percipitation during June was 0.14 and 0.22 in December; therefore we know on average there is more percipitation in December. We can also see from this analysis that the max percipitation in the month of June was 4.4 where as in December it was 6.4. We can see that during the heaviest rainfalls there is more percipitation in Decemeber as compared to June. Overall, however, it still stands that there are relatively low percipitation averages for those two months.
+
